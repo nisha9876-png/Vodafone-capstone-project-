@@ -1,4 +1,4 @@
-This report presents a scalable pipeline for the automatic discovery of hidden foreignkey/primary-key (FK–PK) relationships within legacy enterprise datasets. This
+This project presents a scalable pipeline for the automatic discovery of hidden foreignkey/primary-key (FK–PK) relationships within legacy enterprise datasets. This
 pipeline was developed in partnership with Vodafone as part of the Analytics Project.
 Legacy databases frequently experience a loss of explicit meaningful relationships
 over time, which can significantly complicate critical tasks such as data integration,
